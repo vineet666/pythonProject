@@ -1,0 +1,12 @@
+import datetime
+time = datetime.datetime.now()
+hour = time.hour
+print("time:",time.strftime("%X"))
+if hour > 6 and hour < 12:
+    print("good morning")
+elif hour > 12 and hour < 18:
+    print("good afternoon")
+elif hour > 18 and hour < 22:
+    print("good evening")
+else:
+    print("good night")
