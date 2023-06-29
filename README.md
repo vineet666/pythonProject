@@ -1,6 +1,5 @@
 # pythonProject
-uidcjdc
-h1 align="center">Hi 👋, I'm vinit pansare</h1>
+<h1 align="center">Hi 👋, I'm vinit pansare</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <img align="right" alt="coding"  width="400" src="https://th.bing.com/th/id/OIP.skRg0pz7ISavu6eMKwKg0wAAAA?pid=ImgDet&rs=1">
