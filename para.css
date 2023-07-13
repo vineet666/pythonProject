@@ -1,0 +1,79 @@
+body{
+    margin: auto;
+    padding: auto;
+}
+
+
+h2{
+    color:red;
+    text-align: center;
+}
+
+
+.para-1{
+    padding: 25px;
+    font-size: 20px;
+    text-align: center;
+    color:black;
+    background-color:lightgray;
+}
+
+.para-2{
+   padding: 30px;
+   font-size: 20px;
+   text-align: center;
+   color: white;
+   background-color:darkslategray;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.parall-2 {
+    background-image: url(https://dm0qx8t0i9gc9.cloudfront.net/thumbnails/video/QIAQ9Rd/white-music-background_njs6jzi3_thumbnail-1080_01.png);
+    width: 100;
+    background-attachment: fixed;
+    height: 500px;
+    background-size:100% 100%;
+}
+
+.parall-2 h1{
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    height: 20px;
+    width: 250px;
+    font-size: 30px;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    position: relative;
+    top: 200px;
+    color: black;
+}
+
+.parall-1 { 
+    background-image:url(https://th.bing.com/th/id/OIP.lSefy5_TRegUklaMpcWHTAHaEo?pid=ImgDet&rs=1);
+    width: 100%;
+    background-attachment: fixed;
+    height: 500px;
+    background-size: 100% 100%;
+}
+
+.parall-1 h1{
+    text-align: center;
+    font-size:30px;
+    font-family:'Lucida Sans';
+    color: black;
+    padding: 20px;
+    margin: auto;
+    width: 250px;
+    height: 20px;
+    position: relative;
+    top: 200px;
+    
+}
+
+
+ footer{
+    color:black;
+    padding: 10px;
+ }  
